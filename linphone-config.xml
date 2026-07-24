@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config xmlns="http://www.linphone.org/xsds/linphonerc.xsd">
-  <section name="misc">
-    <entry name="contacts-vcard-list" overwrite="true">https://raw.githubusercontent.com/tc-omar/tc-directorio/main/Contactos.xml</entry>
-  </section>
-</config> 
